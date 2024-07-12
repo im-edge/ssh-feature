@@ -1,4 +1,6 @@
 {
+  "name": "imedge/ssh-feature",
+  "type": "project",
   "config": {
     "sort-packages": true,
     "prefer-stable": false
